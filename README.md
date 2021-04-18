@@ -33,3 +33,8 @@ Javascript | HTML & CSS | Adobe XD | General (Excel, Word,...)
 Dutch | English | French
 :---: | :---: | :---:
 `Native Language` | `Great` | `Bad`
+
+## Socials
+**Stack Overflow**: https://stackoverflow.com/users/15208050/bramc  
+**LinkedIn**: https://www.linkedin.com/in/bram-criel-97b4431b7/  
+**Github**: https://github.com/pgm-bramcriel
