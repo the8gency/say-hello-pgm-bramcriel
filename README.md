@@ -16,7 +16,7 @@ Hi! I'm 22 years old and I'm currently studying programming at Artevelde HS. My 
 **Social technical sciences** - _Graduated (2016)_
 
 ### Higher studies
-**Multimedia & communcation technology** - _1 trimester (KDG hogeschool)_  
+**Multimedia & communcation technology** - _1 Trimester (KDG hogeschool)_  
 
 **Applied psychology** - _1 Year (Thomas More)_
 
