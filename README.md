@@ -8,6 +8,9 @@ Residence: Brandstraat 35c, Beervelde
 E-Mail: bramcrie@student.arteveldehs.be  
 Date Of Birth: 18/11/1998
 
+## Personal Information
+Hi! I'm 22 years old and I'm currently studying programming at Artevelde HS. My main field of interest is creating websites by using html, (s)css and javascript. I spend my free time by playing piano, bouldering (or other sports) and playing games.
+
 ## Education
 ### Highschool
 **Social technical sciences** - _Graduated (2016)_
