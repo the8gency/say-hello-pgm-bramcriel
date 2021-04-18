@@ -21,7 +21,7 @@ Hi! I'm 22 years old and I'm currently studying programming at Artevelde HS. My 
 **Applied psychology** - _1 Year (Thomas More)_
 
 ## Work experience(s)
-**Warhouse & shop assistant** _2016 - 2017_
+**Warehouse & shop assistant** _2016 - 2017_
 _DreamLand (Lochristi)_ - Performing general tasks in the warehouse, answering questions of the customers and guiding customers towards making the correct choices.
 
 ## Technical Skills
